@@ -7,7 +7,6 @@ const tasks = () => {
     <div className="max-w-lg">
       <TaskForm />
       <TaskList />
-      <DeleteForm />
     </div>
   );
 };
