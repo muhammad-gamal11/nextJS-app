@@ -1,4 +1,4 @@
 const DeleteForm = () => {
-  return <div>DeleteForm</div>;
+  return <h1>DeleteForm</h1>;
 };
 export default DeleteForm;
